@@ -1,7 +1,7 @@
 {
-    "Version": 3.8,
-    "Title": "重阳",
-    "Content": " 一个80txt小说搜索源\n工具增加必应图片\n修复书单重复，低栏可隐藏，界面更简洁",
+    "Version": 3.9,
+    "Title": "霜降",
+    "Content": "修复切换资源时滑条冲突问题\nkindle8维护，暂时关闭该搜索源\n资源搜索更新为阿里云盘搜索可以搜索阿里云盘资源\n细节优化",
     "MsgTitle":"公告",
     "MsgContent":"鸠摩源如果搜索失败点击中间图标重新搜索几次即可，豆瓣资源偶尔会抽风",
     "Url": "https://lianglu.lanzoui.com/b01sys4yf",
