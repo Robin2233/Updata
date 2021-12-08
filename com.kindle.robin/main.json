@@ -1,9 +1,9 @@
 {
-    "Version": 3.9,
-    "Title": "霜降",
-    "Content": "修复切换资源时滑条冲突问题\nkindle8维护，暂时关闭该搜索源\n资源搜索更新为阿里云盘搜索可以搜索阿里云盘资源\n细节优化",
+    "Version": 4.0,
+    "Title": "大雪",
+    "Content": "去掉ipls搜索源\n增加zlib搜索源\n修复60秒读懂世界，今日热榜，阿里盘搜报错问题\n部分bug修复",
     "MsgTitle":"公告",
-    "MsgContent":"鸠摩源如果搜索失败点击中间图标重新搜索几次即可，豆瓣资源偶尔会抽风",
+    "MsgContent":"鸠摩源如果搜索失败点击中间图标重新搜索几次即可，豆瓣资源偶尔会抽风，zlib每日下载有次数限制，详情查看网页版",
     "Url": "https://lianglu.lanzoui.com/b01sys4yf",
     "Use": false
 }
