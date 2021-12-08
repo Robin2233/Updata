@@ -1,5 +1,5 @@
 {
-    "Version": 4.0,
+    "Version": 4.1,
     "Title": "大雪",
     "Content": "去掉ipls搜索源\n增加zlib搜索源\n修复60秒读懂世界，今日热榜，阿里盘搜报错问题\n部分bug修复",
     "MsgTitle":"公告",
