@@ -1,9 +1,9 @@
 {
-    "Version": 5.1,
-    "Title": "五一",
-    "Content": "重大更新,摒弃lua重写所有功能,兼容性更强,因为时间关系,很多功能没写完,所以更成beta版本,再慢慢迭代更新",
+    "Version": 5.2,
+    "Title": "更新",
+    "Content": "beat2版本,如果遇到点击没反应的功能就是还没完善",
     "MsgTitle":"公告",
-    "MsgContent":"全新版本几时更新",
+    "MsgContent":"全新版本测试版已发布",
     "Url": "https://lianglu.lanzoui.com/b01sys4yf",
     "Use": false
 }
